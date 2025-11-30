@@ -46,6 +46,8 @@
 ### Aula 25/11:
 - Análise de motores possíveis para controlar a rosca que libera a ração. Escolhemos o Micro Motor DC N20 e tentamos conectá-lo à uma ponte H para dividir a alimentação. Contudo, tivemos problema com a fonte que utilizamos e resolvemos conectar o motor diretamente ao arduíno. Incluímos essa parte no código, ativando o motor depois que o servo do agitador para, até que o peso seja atingido.
 
+### Aula 26/11:
+- Iniciamos a lógica do Wi-Fi, entendendo o funcionamento do módulo ESP8266. Utilizamos um código teste para testarmos o módulo.
 
 ---
 
