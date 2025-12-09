@@ -49,5 +49,8 @@
 ### Aula 26/11:
 - Iniciamos a lógica do Wi-Fi, entendendo o funcionamento do módulo ESP8266. Utilizamos um código teste para testarmos o módulo.
 
+### Aula 03/11:
+- Unimos o código da lógica do projeto com o código teste do Wi-Fi. Criamos funções com lógica de máquina de estado para o funcionamento do projeto. Começamos o html para o cliente realizar as requisições pela web. Em geral, está funcionando bem. Alguns problemas surgiram no meio do caminho e precisam ser solucionados.
+
 ---
 
