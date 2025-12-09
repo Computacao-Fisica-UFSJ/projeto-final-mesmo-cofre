@@ -52,5 +52,7 @@
 ### Aula 03/11:
 - Unimos o código da lógica do projeto com o código teste do Wi-Fi. Criamos funções com lógica de máquina de estado para o funcionamento do projeto. Começamos o html para o cliente realizar as requisições pela web. Em geral, está funcionando bem. Alguns problemas surgiram no meio do caminho e precisam ser solucionados.
 
+### Aula 09/11:
+- Começamos a montar a parte estrutural do projeto. Conectar os componentes, parafusar itens, etc.
 ---
 
