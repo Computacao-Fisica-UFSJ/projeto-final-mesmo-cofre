@@ -120,8 +120,6 @@ Arquivo principal: 'codigo.ino'
 
 ## Explicação do Diagrama
 
-O circuito é composto por quatro blocos principais: o display LCD, o potenciômetro e botão de entrada, o sistema de LEDs, e o servo motor.
-
 1. **Arduíno Mega**  
    - **Função**: unidade central de controle do projeto. É responsável por processar os dados da balança, receber comandos da interface web e controlar os motores.
    - **Conexões**: 
